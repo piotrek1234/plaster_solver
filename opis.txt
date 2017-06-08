@@ -1,0 +1,5 @@
+1.txt - ³atwa
+2.txt - niepoprawny format
+3.txt - pusta
+4.txt - brak rozwi¹zania
+5.txt - trudna
